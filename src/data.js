@@ -6,7 +6,7 @@ export const business = {
   fullName: 'Sweet Ange Café',
   tagline: 'Amor a primera mordida',
   subtitle: 'Pastelería · Café',
-  city: 'Salto, Uruguay',
+  city: 'Salto · Uruguay',
   address: 'Misiones 184, Salto',
   phone: '099 303 613',
   phoneRaw: '59899303613',
