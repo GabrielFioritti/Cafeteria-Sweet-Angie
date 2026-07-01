@@ -93,7 +93,7 @@ export const menu = [
   },
   {
     id: 'te',
-    title: 'Té · Cura té alma',
+    title: 'Té · Cura té el alma',
     kicker: 'Bebidas calientes',
     items: [
       { name: 'Earl Grey', price: '$80', desc: 'Té negro.' },
