@@ -1,0 +1,20 @@
+{
+  "name": "sweet-ange-cafe",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sitio web moderno estilo Apple para Sweet Ange Café — Pastelería & Café, Salto, Uruguay.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
