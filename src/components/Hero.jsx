@@ -1,5 +1,4 @@
 import { business } from '../data.js'
-console.log(business)
 import Logo from './Logo.jsx'
 
 export default function Hero() {
